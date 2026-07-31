@@ -1,295 +1,242 @@
-<!-- ============================================================
-     nirmalpatel008/nirmalpatel008 · Profile README
-     ============================================================ -->
+<h1 align="left">Nirmal Chhodvadiya</h1>
 
-<div align="center">
+<p align="left">
+<b>Senior AWS Data Engineer</b> · AWS Glue SME · Community organiser in Surat<br/>
+I build data platforms on AWS, and I spend a lot of my time explaining them to other people.
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Nirmal%20Chhodvadiya&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AWS%20Data%20Engineer%20%C2%B7%20Community%20Builder%20%C2%B7%20Developer%20Advocate&descSize=16&descAlignY=62" width="100%" />
-
-### Senior AWS Data Engineer · AWS Glue SME · AWS UG Surat Organiser
-
-**I ship production data platforms, then teach a room of 80 developers how to build them.**
-
-[![Website](https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://nirmalchhodvadiya.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalchhodvadiya)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nirmalpatel008)
-[![Meetup](https://img.shields.io/badge/AWS_UG_Surat-ED1C40?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/aws-user-group-surat/)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nmchhodvadiya008)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmchhodvadiya008@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nirmalpatel008&style=for-the-badge&color=FF9900)
-![Followers](https://img.shields.io/github/followers/nirmalpatel008?label=Followers&style=for-the-badge&color=232F3E)
-
-![Status](https://img.shields.io/badge/Status-🟢_Open_to_DevRel_·_Presales_·_Architect-28a745?style=for-the-badge)
-![Location](https://img.shields.io/badge/Surat,_India-Remote_First_·_IST-0F9D58?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
+<p align="left">
+<a href="https://nirmalchhodvadiya.in"><img src="https://img.shields.io/badge/portfolio-nirmalchhodvadiya.in-FF9900?style=flat-square&labelColor=232F3E" /></a>
+<a href="https://linkedin.com/in/nirmalchhodvadiya"><img src="https://img.shields.io/badge/linkedin-nirmalchhodvadiya-0A66C2?style=flat-square&labelColor=232F3E" /></a>
+<a href="https://youtube.com/@nirmalpatel008"><img src="https://img.shields.io/badge/youtube-@nirmalpatel008-FF0000?style=flat-square&labelColor=232F3E" /></a>
+<a href="https://linktr.ee/nmchhodvadiya008"><img src="https://img.shields.io/badge/links-linktree-43E55E?style=flat-square&labelColor=232F3E" /></a>
+<a href="mailto:nmchhodvadiya008@gmail.com"><img src="https://img.shields.io/badge/email-say_hello-D14836?style=flat-square&labelColor=232F3E" /></a>
+</p>
 
 ---
 
-## 🚀 30-Second Snapshot
+## Current state
 
-| 👨‍💻 **Who I Am** | 📊 **Proof of Work** | 🎯 **What I Want Next** |
-| :--- | :--- | :--- |
-| Senior AWS Data Engineer, 6+ yrs | 3,350+ member AWS UG Surat, built from scratch | Developer Advocate / DevRel |
-| Ex-AWS India Big Data, **Glue SME** | AWS Summit Bengaluru speaker, 2025 **and** 2026 | Cloud & Data **Presales / Solutions Architect** |
-| AWS Community Builder since 2021 | Production data lake + CDC platform, CFN-only | Remote-first, global teams |
-| Organiser, AWS UG Surat | Rising Star award, AWS Big Data team | Talking to devs about data on AWS |
+```console
+$ aws profile describe --user nirmal
 
-**💼 Open to:** `Developer Advocacy / DevRel` · `Cloud Solutions Architect` · `Data & Analytics Presales` · `Technical Content & Enablement`
+ROLE        Senior AWS Data Engineer, 6+ years
+DEPTH       AWS Glue Subject-Matter Expert (AWS India Big Data, 2021-2024)
+BUILT       Production data lake + CDC platform at Credibly, CloudFormation only
+COMMUNITY   Organiser, AWS User Group Surat  ·  AWS Community Builder since 2021
+STAGE       AWS Summit Bengaluru speaker, 2025 and 2026
+BASE        Surat, India  ·  remote-first  ·  IST, happy to stretch either way
 
-[🎯 About](#-about-me) • [🎤 Speaking](#-speaking--community) • [✍️ Content](#️-content--publications) • [🏗️ What I Build](#️-what-i-actually-build) • [🧰 Tech Stack](#-tech-stack) • [🧭 Work History](#-work-history) • [🤝 Hire Me](#-work-with-me)
+STATUS      open to new work
+LOOKING AT  Developer Advocacy / DevRel
+            Cloud Solutions Architect (Data & Analytics)
+            Data & Analytics presales / solutions engineering
+            Technical content, enablement, developer education
+```
 
 ---
 
-## 🎯 About Me
+## Two halves of the same job
 
-> I started attending AWS meetups as an outsider, before I had a job in cloud. That community-first mindset shaped everything after it.
->
-> Over 6+ years I went from intern to **AWS Glue Subject-Matter Expert** inside AWS India's Big Data organisation, then built a company's first production data lake and CDC platform from zero at Credibly. In parallel, and entirely unpaid, I grew **AWS User Group Surat to 3,350+ members**, spoke at **AWS Summit Bengaluru in 2025 and 2026**, and started hosting the BeSA "I Am a Cloud Builder" video series.
->
-> I know how to ship the hard technical stuff. I also know how to explain it to a room full of developers in a way that actually lands. DevRel is not a pivot for me. It is the formalisation of work I have already been doing for years.
+I do not think of the engineering and the community work as separate tracks. One feeds the other. The talks are good because the systems were real, and the systems got better because I had to explain them to strangers.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-### 🔬 The engineer side
+### What I build
 
-Nanosecond-precision timestamps. Schema evolution across deeply nested DynamoDB JSON. Dedup and primary-key consistency at scale. 14 DMS replication tasks moved into a hardened production account. An entire AWS account stood up through **CloudFormation only, zero console changes**.
+Production data platforms where the hard part is never the happy path.
 
-The unglamorous problems that decide whether a data platform survives contact with production.
+Nanosecond-precision timestamps that break naive dedup. Schema evolution across deeply nested DynamoDB JSON. Primary-key consistency when the source system does not cooperate. A wildcard-versus-explicit overlap between two CDC tasks that quietly duplicated 137 tables until I injected 122 exclude rules programmatically.
 
-</td>
-<td width="50%" valign="top">
+I stood up an entire production AWS account through CloudFormation only, no console changes, across eight-plus stacks. Enterprise naming convention, parameterised per environment, no drift.
 
-### 🎤 The advocate side
+</td><td width="50%" valign="top">
 
-Monthly meetups averaging **70 to 80 attendees**. A re:Invent recap with 114 registrations. Bedrock, MCP and Serverless workshops running 77 to 90 builders each. Guest sessions opened to 500+ students.
+### How I show up
 
-Speaking, workshop facilitation, and technical writing are not a side hobby. They are half of what I do.
+Meetups, workshops, conference stages, YouTube, written docs.
 
-</td>
-</tr>
+I have delivered Bedrock, MCP and Serverless workshops to rooms of 77 to 90 builders. Guest sessions opened to 500-plus students. Five-plus internal enablement sessions on Glue and PySpark to engineers inside AWS, some of them more senior than me.
+
+My demos come out of systems I actually ran, which is the only reason the questions afterwards are answerable.
+
+</td></tr>
 </table>
 
 ---
 
-## 🎤 Speaking & Community
+## Speaking
 
-Full speaking history → **[nirmalchhodvadiya.in/#speaking](https://nirmalchhodvadiya.in/#speaking)**
+Full history at [nirmalchhodvadiya.in/#speaking](https://nirmalchhodvadiya.in/#speaking)
 
-| Event | Talk | Link |
-| :--- | :--- | :--- |
-| **AWS Summit Bengaluru 2026** | Building Near Real-Time Data Pipelines with AWS DMS: Aurora to Aurora (Full Load + CDC) | [▶ Video](https://youtu.be/lh3vMIL85T4) |
-| **AWS Summit Bengaluru 2025** | From Meetup Attendee to AWS Engineer: How Community Shaped My Cloud Career | [▶ Video](https://youtu.be/YDKte_7OkqE) |
-| **AWS Community Day Vadodara 2025** *(600+ attendees)* | From Data Chaos to Insights: Zero-ETL on AWS Explained | Speaker |
-| **AWS Community Day Ahmedabad 2025** | Near real-time data pipelines + "Listen to Expert" guest session | Speaker |
-| **AWS Cloud Club PPSU** *(Feb 2026)* | Cloud fundamentals, IaaS/PaaS/SaaS, certification pathways · 500+ students online | Guest Expert |
+**AWS Summit Bengaluru 2026** · Conference speaker
+Building near real-time data pipelines with AWS DMS, Aurora to Aurora, full load plus CDC. Dual-target endpoint design, latency versus catalog-churn tradeoffs, running DMS at production scale.
+[Watch](https://youtu.be/lh3vMIL85T4)
 
-### 🏗️ AWS User Group Surat · Organiser, Jan 2025 to present
+**AWS Summit Bengaluru 2025** · Developer Lounge
+From meetup attendee to AWS engineer. The seven-year version of how community shaped my cloud career.
+[Watch](https://youtu.be/YDKte_7OkqE)
+
+**AWS Community Day Vadodara 2025** · 600+ attendees
+From data chaos to insights. A practical Aurora Zero-ETL and CDC deep dive.
+
+**AWS Community Day Ahmedabad 2025**
+Near real-time data pipelines, plus a "Listen to Expert" guest session for the Ahmedabad community.
+
+**AWS Cloud Club PPSU** · Feb 2026
+Cloud fundamentals, IaaS/PaaS/SaaS, certification pathways. Opened to 500+ students online.
+
+---
+
+## Community
+
+I am one of the organisers of **AWS User Group Surat**. I want to be precise about that, because community numbers get claimed too easily.
+
+The group existed before I joined it. I first walked in as an attendee, before I had a job in cloud. Years later I ended up helping run it, alongside co-organisers and a volunteer crew who do the logistics, the venue chasing, the registration desk, and the thousand unglamorous things that make an event happen. Every speaker who has said yes to us is part of it too.
+
+Where the community is today:
+
+| | |
+| :--- | :--- |
+| Meetup members | 3,350+ |
+| LinkedIn followers | 1,000+ |
+| Cadence | monthly, averaging 70 to 80 attendees |
+| re:Invent 2025 Recap | 114 registrations |
+| AI for Bharat, Bedrock workshop | 90+ builders |
+| MCP workshop | 83 attendees |
+| Serverless workshop | 77 attendees |
+| Coming up | **AWS Community Day Surat, October 2026**, our first |
+
+My share of that is showing up consistently, running sessions, and helping keep the cadence going. The number belongs to everyone who turned up.
+
+Also an **AWS Community Builder** since 2021, Networking and Content Delivery cohort.
+
+---
+
+## Writing and video
+
+- **AWS Knowledge Center**, public article on troubleshooting the `Unable to execute HTTP request... connect timed out` error in AWS Glue. Written while I was on the Glue team, still read by customers globally.
+- **AWS Builder Center**, building near real-time data pipelines with AWS DMS, full load plus CDC. `<!-- TODO: article URL -->`
+- **BeSA "I Am a Cloud Builder"**, I host this community video series featuring AWS Community Builders, Heroes and User Group leaders.
+- **[YouTube](https://youtube.com/@nirmalpatel008)**, AWS architecture, DMS/Glue/Athena walkthroughs, AI and developer-experience experiments, live demos.
+- **[near-realtime-business-metrics](https://github.com/nirmalpatel008/near-realtime-business-metrics)**, open source. A DMS CDC pipeline with KPI queries, a dashboard, and Glue catalog integration.
+
+---
+
+## Selected work
+
+**Credibly** · Senior AWS Data Engineer · Jan 2025 to May 2026
+
+Designed and delivered the company's first production AWS data lake from scratch. Introduced change data capture as a new platform capability, which unlocked DynamoDB data the analytics team previously could not query at all.
+
+Migrated 14 DMS replication tasks into a hardened production account, consolidating nine endpoints down to six. Multi-AZ r6i.xlarge replication instance, KMS encryption, Secrets Manager credentials, cross-account VPC peering across four source databases.
+
+Designed dual S3 target endpoints, one high-frequency and one large-batch flush, to trade CDC latency against Glue Data Catalog churn deliberately rather than accidentally.
+
+Wrote the architecture evaluation comparing DMS Serverless against Aurora Zero-ETL. That document is where my AWS Summit 2026 talk came from.
+
+**AWS India** · Big Data Cloud Engineer, Glue SME · Sep 2021 to Dec 2024
+
+Accredited as a Subject-Matter Expert for AWS Glue, the deepest technical specialist designation for that service inside the Big Data support organisation. Three years of debugging other people's Glue and Spark architectures at scale.
+
+Built an internal MWAA plugin-packager in Python that removed the need for Docker-based local-runner setup. It became the standard ramp-up path org-wide for private MWAA environments.
+
+PySpark ETL into Iceberg, Delta Lake, Redshift and Snowflake. Cross-account Glue catalog sharing through Lake Formation. Received the Rising Star award for top performance on the Big Data team.
+
+**Appgambit** · Cloud Engineer · Jul 2020 to Jul 2021
+
+Serverless SaaS products on AWS with Node.js and the Serverless Framework. CI/CD through CodeCommit, CodeDeploy, CodePipeline and CodeBuild.
+
+---
+
+## Stack
 
 ```
-members      3,350+ on Meetup  ·  1,000+ LinkedIn followers
-cadence      monthly events, 70-80 average attendance
-highlights   re:Invent 2025 Recap ......... 114 registrations
-             AI for Bharat Bedrock Workshop . 90+ builders
-             MCP Workshop ................... 83 attendees
-             Serverless Workshop ............ 77 attendees
-next up      AWS Community Day Surat, October 2026 (first ever)
+data & analytics    Glue (SME) · DMS · Athena · Lake Formation · MWAA · Redshift
+                    QuickSight · Bedrock · Iceberg · Delta Lake
+
+languages           Python · PySpark · SQL · Bash
+
+datastores          Aurora MySQL · PostgreSQL · DynamoDB · Snowflake · S3
+
+platform            CloudFormation (IaC) · Lambda · Step Functions · IAM · VPC
+                    KMS · Secrets Manager · SQS · SNS · CloudWatch · EC2 · RDS
+
+advocacy            public speaking · workshop facilitation · technical writing
+                    live demos · community organising · developer experience
+                    PoC and demo delivery · mentoring and enablement
 ```
 
-🎖️ **AWS Community Builder (2021)** · Networking & Content Delivery cohort
+---
+
+## Certifications
+
+<!-- Replace each href with your Credly credential URL. -->
+
+| Credential | Issued |
+| :--- | :--- |
+| [AWS Certified Data Engineer, Associate (DEA-C01)](CREDLY_URL_HERE) | 2026 |
+| [AWS Glue Subject-Matter Expert](CREDLY_URL_HERE) | Sep 2024 |
+| [AWS Certified Solutions Architect, Associate](CREDLY_URL_HERE) | Jul 2021 |
+| [AWS Certified Cloud Practitioner](CREDLY_URL_HERE) | Jul 2021 |
+| [AWS Community Builder](CREDLY_URL_HERE) | Since 2021 |
+
+B.E. Computer Engineering, CGPA 8.66/10, R.N.G. Patel Institute of Technology, Bardoli, 2016 to 2020. Now a Board of Studies member there.
 
 ---
 
-## ✍️ Content & Publications
+## What I am looking for
 
-- 📄 **[AWS Builder Center](https://nirmalchhodvadiya.in)** — Building Near Real-Time Data Pipelines with AWS DMS (Full Load + CDC)
-- 📄 **AWS Knowledge Center**, public article — Troubleshoot the `Unable to execute HTTP request... connect timed out` error in AWS Glue. Read by thousands of customers globally.
-- 🎬 **BeSA "I Am a Cloud Builder"**, host — community series featuring AWS Community Builders, Heroes and UG Leaders
-- 📺 **[@nirmalpatel008 on YouTube](https://youtube.com/@nirmalpatel008)** — AWS architecture, DMS/Glue/Athena tutorials, AI and DevEx experiments, live demos from real systems
-- 💻 **[near-realtime-business-metrics](https://github.com/nirmalpatel008/near-realtime-business-metrics)** — DMS CDC pipeline with KPI queries, dashboard and Glue catalog integration
-
----
-
-## 🏗️ What I Actually Build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🔄 CDC & Replication**
-
-DMS full load + CDC, Aurora to Aurora and Aurora to S3. Dual S3 target endpoints tuned for latency vs Glue catalog churn. 122 programmatically injected exclude rules to kill duplicate replication across 137 tables.
-
-</td>
-<td width="33%" valign="top">
-
-**🧱 Data Lake Platforms**
-
-DynamoDB data lake exposing current *and* historical record state, queryable through Glue Data Catalog and Athena. Nanosecond timestamps, schema evolution, dedup, primary-key consistency across nested JSON.
-
-</td>
-<td width="33%" valign="top">
-
-**📐 IaC Discipline**
-
-Entire production AWS account through CloudFormation only. 8+ stacks: IAM, S3, VPC, Glue/Athena, Lambda, DMS, Step Functions. Enterprise naming convention, per-environment parameterisation, zero console drift.
-
-</td>
-</tr>
-</table>
-
-> **How I evaluate a design:** what does this cost at 10x? What breaks when one component fails? Who maintains it at 2 AM? Is it overbuilt for the problem? I would rather ship boring and reliable than clever and fragile, and I will say so directly when something is a bad idea.
-
----
-
-## 🧰 Tech Stack
-
-**Data & Analytics on AWS**
-
-![Glue](https://img.shields.io/badge/AWS_Glue_(SME)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![DMS](https://img.shields.io/badge/AWS_DMS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Lake Formation](https://img.shields.io/badge/Lake_Formation-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![MWAA](https://img.shields.io/badge/MWAA_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**Languages & Engines**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Iceberg](https://img.shields.io/badge/Apache_Iceberg-1B7EC4?style=for-the-badge&logo=apache&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Platform & Infra**
-
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Aurora](https://img.shields.io/badge/Aurora_MySQL-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM_·_KMS_·_Secrets-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**DevRel Toolkit**
-
-`Public Speaking` · `Workshop Facilitation` · `Technical Writing` · `Live Demos` · `Community Management` · `Developer Experience` · `PoC & Demo Delivery` · `Mentoring & Enablement`
-
----
-
-## 🧭 Work History
-
-| Period | Role · Company | Highlights |
-| :--- | :--- | :--- |
-| **Jan 2025 – May 2026** | Senior AWS Data Engineer · **Credibly** (Retail Capital LLC) | First production data lake from scratch. CDC introduced as a new platform capability. 14 DMS tasks, 9 endpoints consolidated to 6. CloudFormation-only account across 8+ stacks. Authored the DMS Serverless vs Zero-ETL evaluation that became my Summit 2026 talk. |
-| **Sep 2021 – Dec 2024** | Big Data Cloud Engineer · **AWS India** | Accredited **AWS Glue SME**. Rising Star award. 5+ internal enablement sessions on Glue and PySpark. Public Knowledge Center article. Built an internal MWAA plugin-packager adopted org-wide. |
-| **Jul 2020 – Jul 2021** | Cloud Engineer · **Appgambit** | Serverless SaaS on AWS with Node.js and Serverless Framework. CI/CD via CodeCommit, CodeDeploy, CodePipeline, CodeBuild. |
-| **Jan 2023 – Present** | Organiser · **AWS User Group Surat** | 0 to 3,350+ members. Monthly events. First AWS Community Day Surat landing October 2026. |
-
----
-
-## 🎖️ Certifications
-
-![DEA](https://img.shields.io/badge/AWS_Data_Engineer-Associate_·_2026-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SME](https://img.shields.io/badge/AWS_Glue-Subject_Matter_Expert_·_2024-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate_·_2021-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-2021-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CB](https://img.shields.io/badge/AWS_Community_Builder-Since_2021-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-🎓 **B.E. Computer Engineering**, CGPA 8.66/10 · R.N.G. Patel Institute of Technology, Bardoli (2016 to 2020)
-📋 Board of Studies member, RNGPIT
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nirmalpatel008&show_icons=true&hide_border=true&theme=tokyonight&title_color=FF9900&icon_color=FF9900&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalpatel008&layout=compact&hide_border=true&theme=tokyonight&title_color=FF9900&border_radius=10" />
-
-<img src="https://streak-stats.demolab.com?user=nirmalpatel008&theme=tokyonight&hide_border=true&border_radius=10&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" />
-
-</div>
-
----
-
-## ❓ How I Can Help
+Four kinds of role, in rough order of how much I want them.
 
 <details>
-<summary><b>🎤 Looking for a Developer Advocate who has actually run production systems?</b></summary>
+<summary><b>Developer Advocacy / DevRel</b></summary>
 <br/>
 
-I have shipped the thing I would be advocating for. Production data lakes, CDC pipelines, IaC-first AWS accounts. My demos are pulled from real systems, not tutorials. On top of that I have run a 3,350-member user group for years, spoken at two AWS Summits, and hosted a community video series. The audience-building work is already done and measurable.
+This is not a career change for me, it is the paid version of what I have been doing unpaid for years. I have run a user group, spoken at two AWS Summits, hosted a video series, written a Knowledge Center article read by thousands, and taught engineers inside AWS. The difference between me and a lot of DevRel candidates is that I also shipped the production systems, so the demo does not fall apart when someone asks a follow-up question.
+
+Best fit: data infrastructure, cloud platforms, developer tooling, anything where the audience is engineers who will smell a shallow demo immediately.
 
 </details>
 
 <details>
-<summary><b>🏛️ Need a Cloud Solutions Architect or Data & Analytics presales engineer?</b></summary>
+<summary><b>Cloud Solutions Architect, Data & Analytics</b></summary>
 <br/>
 
-I spent three years inside AWS as a Glue SME, which is the deepest technical specialist designation for that service in the Big Data support organisation. That means I have debugged other people's architectures at scale, across hundreds of customer scenarios. I can scope a data platform, defend the design tradeoffs in a room, build the PoC, and then run the enablement session afterwards.
+Three years inside AWS as a Glue SME meant seeing hundreds of customer architectures, most of them while broken. Then two years actually owning a platform end to end. I can scope a data platform, defend the tradeoffs in front of a customer, build the proof of concept, and run the enablement session afterwards.
 
 </details>
 
 <details>
-<summary><b>📝 Want technical content that engineers will actually finish reading?</b></summary>
+<summary><b>Data & Analytics presales / solutions engineering</b></summary>
 <br/>
 
-AWS Knowledge Center article read by thousands of customers globally. AWS Builder Center article on DMS CDC. Architecture evaluation documents comparing DMS Serverless against Aurora Zero-ETL. YouTube tutorials and live demos. I write from things I have broken and fixed, which is why the detail holds up.
+The overlap of the two things above. Technical credibility in the room, plus the ability to explain a design to people who are not going to read the whitepaper. I have written architecture evaluation documents, conducted technical interviews, and presented tradeoffs to teams that had to make a decision that week.
 
 </details>
 
 <details>
-<summary><b>🎓 Running a workshop, university programme, or community event?</b></summary>
+<summary><b>Technical content and developer education</b></summary>
 <br/>
 
-I have delivered Bedrock, MCP and Serverless workshops to 77 to 90 builders each, guest sessions to 500+ students, and 5+ internal enablement sessions for engineers inside AWS. I also run **[CloudVidya](https://cloudvidya.in)**, a cloud training venture partnering with engineering colleges across India.
+Written docs, tutorials, video, workshops, course material. I also run <a href="https://cloudvidya.in">CloudVidya</a>, a cloud training venture working with engineering colleges across India, so the curriculum-design side is not theoretical for me either.
 
 </details>
 
 ---
 
-## 🤝 Work With Me
+## Get in touch
 
-```yaml
-open_to:
-  - Developer Advocate / DevRel
-  - Cloud Solutions Architect (AWS, Data & Analytics)
-  - Data & Analytics Presales / Solutions Engineering
-  - Technical Content, Enablement & Community
+Fastest ways to reach me:
 
-focus_areas:
-  - AWS data platforms: Glue, DMS, Athena, Lake Formation, Iceberg
-  - CDC and near real-time pipelines
-  - Infrastructure as Code discipline (CloudFormation)
-  - Developer education, workshops, live demos
+**Email** [nmchhodvadiya008@gmail.com](mailto:nmchhodvadiya008@gmail.com)
+**LinkedIn** [linkedin.com/in/nirmalchhodvadiya](https://linkedin.com/in/nirmalchhodvadiya)
+**Everything else** [linktr.ee/nmchhodvadiya008](https://linktr.ee/nmchhodvadiya008)
 
-preferences:
-  remote: true
-  base: Surat, India
-  timezones: [IST, EMEA overlap, US morning]
-  travel: yes, for events and customer workshops
-```
+If you are in or near Surat, the simplest option is to just come to a meetup and say hello.
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nmchhodvadiya008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmchhodvadiya008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalchhodvadiya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nirmalchhodvadiya.in-FF9900?style=for-the-badge&logo=todoist&logoColor=white)](https://nirmalchhodvadiya.in)
-
-<br/>
-
-⭐ Star a repo · 🔔 Follow for AWS data engineering content · 🤝 Reach out to collaborate
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=120&section=footer&text=From%20meetup%20attendee%20to%20Summit%20speaker&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-</div>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nirmalpatel008&style=flat-square&color=FF9900&label=profile+views" />
+<img src="https://img.shields.io/github/followers/nirmalpatel008?label=followers&style=flat-square&color=232F3E" />
+</p>
