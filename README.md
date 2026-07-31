@@ -114,13 +114,13 @@ Also an **AWS Community Builder** since 2021, Networking and Content Delivery co
 
 ---
 
-## Writing and video
+## Writing, video and code
 
-- **AWS Knowledge Center**, public article on troubleshooting the [Unable to execute HTTP request... connect timed out] (https://repost.aws/knowledge-center/glue-connect-time-out-error) error in AWS Glue. Written while I was on the Glue team, still read by customers globally.
-- **AWS Builder Center**, building near real-time data pipelines with AWS DMS, full load plus CDC [Link] (https://builder.aws.com/content/3D1dYOYynMHfhqiIRoEYV89LgSH/building-near-real-time-data-pipelines-with-aws-dms-full-load-cdc). 
-- **BeSA "I Am a Cloud Builder"**, I host this community video series featuring AWS Community Builders, Heroes and User Group leaders.
-- **[YouTube](https://youtube.com/@nirmalpatel008)**, AWS architecture, DMS/Glue/Athena walkthroughs, AI and developer-experience experiments, live demos.
-- **[near-realtime-business-metrics](https://github.com/nirmalpatel008/near-realtime-business-metrics)**, open source. A DMS CDC pipeline with KPI queries, a dashboard, and Glue catalog integration.
+- **[Troubleshooting the `connect timed out` error in AWS Glue](https://repost.aws/knowledge-center/glue-connect-time-out-error)** on AWS re:Post Knowledge Center. Written while I was on the Glue team. It is the article AWS support points customers to when a Glue job cannot reach its VPC endpoint.
+- **[Building near real-time data pipelines with AWS DMS, full load plus CDC](https://builder.aws.com/content/3D1dYOYynMHfhqiIRoEYV89LgSH/building-near-real-time-data-pipelines-with-aws-dms-full-load-cdc)** on AWS Builder Center. The written form of my Summit 2026 talk: dual-target endpoint design, latency versus catalog churn, what breaks at production scale.
+- **[near-realtime-business-metrics](https://github.com/nirmalpatel008/near-realtime-business-metrics)**, open source. A DMS CDC pipeline with KPI queries, a dashboard and Glue catalog integration. The reference implementation behind both of the above.
+- **BeSA "I Am a Cloud Builder"**, a community video series I host, featuring AWS Community Builders, Heroes and User Group leaders talking through their cloud journeys.
+- **[YouTube](https://youtube.com/@nirmalpatel008)**, AWS architecture walkthroughs, DMS/Glue/Athena tutorials, AI and developer-experience experiments, live demos from real systems.
 
 ---
 
