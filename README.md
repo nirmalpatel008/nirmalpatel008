@@ -140,7 +140,7 @@ Industry expert lectures for the MCA Cloud Computing course at R.N.G. Patel Inst
 1. [AWS Certified Data Engineer – Associate (DEA-C01)](https://www.linkedin.com/posts/nirmalpatel008_aws-certified-data-engineer-associate-was-activity-7456623145626554368-KViM), May 2026
 2. [AWS Glue Subject-Matter Expert](https://www.credly.com/badges/80f50295-a58e-4ff7-991e-c321e300dd54/public_url), Sep 2024
 3. [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ef4893d6-99f8-41cf-b0c4-421c6292950a/public_url), Jul 2021
-4. [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9fd8b856-a070-436a-ba1c-ba55ebf62682/public_url), Jul 2021 (expired)
+4. [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9fd8b856-a070-436a-ba1c-ba55ebf62682/public_url), Jul 2021
 
 B.E. Computer Engineering, R.N.G. Patel Institute of Technology, Bardoli, 2016 to 2020, CGPA 8.66/10.
 
