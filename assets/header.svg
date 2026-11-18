@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+ <linearGradient id="fade" x1="0" x2="1"><stop offset="0.55" stop-color="#0F172A" stop-opacity="0"/><stop offset="1" stop-color="#0F9D8A" stop-opacity="0.18"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="18" fill="#0F172A"/>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#94A3B8"><text x="64" y="74">SURAT, INDIA  ·  6+ YEARS IN CLOUD AND DATA</text></g>
+<text x="62" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#F8FAFC" letter-spacing="-1">Nirmal Chhodvadiya</text>
+<text x="64" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#CBD5E1">Data engineer and developer advocate  ·  Former AWS Glue SME at AWS India</text>
+<g transform="translate(64,224)">
+ <rect width="440" height="36" rx="18" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
+ <circle cx="22" cy="18" r="6" fill="#34D399"><animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/></circle>
+ <text x="40" y="24" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#E2E8F0">Open to full-time, part-time or contract work</text>
+</g>
+<g transform="translate(0,294)">
+ <rect x="0" width="240" height="6" fill="#0F9D8A"/><rect x="240" width="240" height="6" fill="#0B84C6"/><rect x="480" width="240" height="6" fill="#5B5BD6"/><rect x="720" width="240" height="6" fill="#E5484D"/><rect x="960" width="240" height="6" fill="#E8930C"/>
+</g>
+<g transform="translate(1010,70)" opacity="0.9">
+ <rect x="0" y="0" width="22" height="120" rx="6" fill="#0F9D8A"/>
+ <rect x="32" y="30" width="22" height="90" rx="6" fill="#0B84C6"/>
+ <rect x="64" y="55" width="22" height="65" rx="6" fill="#5B5BD6"/>
+ <rect x="96" y="20" width="22" height="100" rx="6" fill="#E5484D"/>
+ <rect x="128" y="70" width="22" height="50" rx="6" fill="#E8930C"/>
+</g>
+</svg>

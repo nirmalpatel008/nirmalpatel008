@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#E5484D" stop-opacity="0.9"/><stop offset="1" stop-color="#E5484D" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="12" width="56" height="40" rx="10" fill="#E5484D"/>
+<text x="28" y="39" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#ffffff">09</text>
+<rect x="64" y="12" width="222" height="40" rx="10" fill="#E5484D" fill-opacity="0.14" stroke="#E5484D" stroke-opacity="0.55"/>
+<text x="84" y="39" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E5484D">Certifications</text>
+<rect x="302" y="31" width="898" height="2" fill="url(#l)"/>
+</svg>
