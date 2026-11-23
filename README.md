@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Nirmal Chhodvadiya. Data engineer and developer advocate, former AWS Glue SME at AWS India. Surat, India. Open to full-time, part-time or contract work." />
 
-I spent three years on the AWS India Big Data team as an AWS Glue Subject-Matter Expert, built Credibly's first production data lake as its only engineer, and run developer communities in Surat on the side. **Available for full-time, part-time or contract work** in DevRel, solutions architecture and data engineering. Remote from Surat, happy to travel.
+I spent three years on the AWS India Big Data team as an AWS Glue Subject-Matter Expert, built Credibly's first production data lake as its only engineer, and run developer communities in Surat on the side. I'm now building **[Swatva](https://swatva.org)**, a free, open-source tool that helps Indian colleges find the personal data they hold before the DPDP Act's duties begin in May 2027. **Available for full-time, part-time or contract work** in DevRel, solutions architecture and data engineering. Remote from Surat, happy to travel.
 
 <p>
 <a href="https://nirmalchhodvadiya.in"><img src="https://img.shields.io/badge/Portfolio-nirmalchhodvadiya.in-0F9D8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -15,6 +15,7 @@ I spent three years on the AWS India Big Data team as an AWS Glue Subject-Matter
 
 <img src="assets/sec-now.svg" width="100%" alt="01 Now" />
 
+- Building **[Swatva](https://github.com/nirmalpatel008/swatva)**, which scans a college's databases and spreadsheets for Aadhaar, phone numbers, caste, bank details and other personal data, in English, Gujarati and Hindi. It runs on your own machine. [Try it in your browser](https://swatva.org/try.html)
 - Sending fixes to open-source data tools, most recently **Tower** and **LakeSail Sail**
 - Organising the next **AWS User Group Surat** and **Cloud Native Surat** meetups
 
@@ -24,6 +25,7 @@ I spent three years on the AWS India Big Data team as an AWS Glue Subject-Matter
 
 | Project | Contribution | When |
 | :--- | :--- | :--- |
+| [nirmalpatel008/swatva](https://github.com/nirmalpatel008/swatva) | My own project: an open-source personal data scanner for Indian colleges, built for the DPDP Act. Plain Python, with a browser version that runs locally through Pyodide. [swatva.org](https://swatva.org) | 2026 |
 | [tower/tower-cli](https://github.com/tower/tower-cli) | [#381](https://github.com/tower/tower-cli/pull/381) Fix for qualified table name namespaces | Nov 2026 |
 | [lakehq/sail](https://github.com/lakehq/sail) | [#2977](https://github.com/lakehq/sail/pull/2977) Fix for AWS Glue views | Nov 2026 |
 | [galaxy-io/filament](https://github.com/galaxy-io/filament) | Issues [#611](https://github.com/galaxy-io/filament/issues/611), [#612](https://github.com/galaxy-io/filament/issues/612), [#613](https://github.com/galaxy-io/filament/issues/613) from a hands-on Filament vs AWS DMS test. #611 was fixed in #615. | Oct 2026 |
