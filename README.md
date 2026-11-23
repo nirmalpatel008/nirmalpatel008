@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Nirmal Chhodvadiya. Data engineer and developer advocate, former AWS Glue SME at AWS India. Surat, India. Open to full-time, part-time or contract work." />
 
-I spent three years on the AWS India Big Data team as an AWS Glue Subject-Matter Expert, built Credibly's first production data lake as its only engineer, and run developer communities in Surat on the side. I'm now building **[Swatva](https://swatva.org)**, a free, open-source tool that helps Indian colleges find the personal data they hold before the DPDP Act's duties begin in May 2027. **Available for full-time, part-time or contract work** in DevRel, solutions architecture and data engineering. Remote from Surat, happy to travel.
+I've spent 6+ years in cloud and data, including three years on the AWS India Big Data team as an AWS Glue Subject-Matter Expert. I built Credibly's first production data lake as its only engineer, and I run developer communities in Surat on the side. I'm now building **[Swatva](https://swatva.org)**, a free, open-source tool that helps Indian colleges find the personal data they hold before the DPDP Act's duties begin in May 2027. **Available for full-time, part-time or contract work** in DevRel, solutions architecture and data engineering. Remote from Surat, happy to travel.
 
 <p>
 <a href="https://nirmalchhodvadiya.in"><img src="https://img.shields.io/badge/Portfolio-nirmalchhodvadiya.in-0F9D8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
