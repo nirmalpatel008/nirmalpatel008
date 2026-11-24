@@ -9,6 +9,7 @@ I've spent 6+ years in cloud and data, including three years on the AWS India Bi
 <a href="https://www.youtube.com/@nirmalpatel008"><img src="https://img.shields.io/badge/YouTube-nirmalpatel008-E5484D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://dev.to/nirmalpatel008"><img src="https://img.shields.io/badge/dev.to-nirmalpatel008-0F172A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
 <a href="mailto:nmchhodvadiya008@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-E8930C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/sponsors/nirmalpatel008"><img src="https://img.shields.io/badge/Sponsor-Swatva-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 </p>
 
 <br/>
@@ -181,5 +182,7 @@ CDC with DMS, Glue and PySpark ETL, Iceberg and Athena on S3, all in infrastruct
 <img src="assets/sec-contact.svg" width="100%" alt="11 Get in touch" />
 
 Email is the fastest: [nmchhodvadiya008@gmail.com](mailto:nmchhodvadiya008@gmail.com)
+
+To support my open-source work, including Swatva, you can [sponsor me on GitHub](https://github.com/sponsors/nirmalpatel008).
 
 If you're in or near Surat, come to a meetup and say hello.
